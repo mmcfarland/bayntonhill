@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mmcfarland.github.io/bayntonhill/sitemap.xml 
