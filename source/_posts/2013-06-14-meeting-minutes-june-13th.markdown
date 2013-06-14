@@ -10,7 +10,7 @@ categories: [Meeting Minutes]
 #####In Attendance: Amanda Staples, Matt McFarland, Chris & Helen Nicholson, Ross Henessey, Tom ???, Darcy
 
 ####What do you like and dislike about your neighborhood?
-Things people like:
+Things people like
 : Quiet, Trees, Friendliness of neighbors, Old architecture, Contrast of City/Country look and feel
 
 Things people don't like
@@ -58,8 +58,8 @@ Things people don't like
 
 ###Action Items:
 
-(Matt) Make a map of our boundaries for the bylaws document 
-(All) Review bylaws document and provide feedback via email by July 1st
-(Ross) Check Wakefield, Penn, Lena St block captains
-(Matt) Draft letters for local politician regarding our conern for gun violence
-(Matt) Chop up some weeds around the art work on Rufe St
+* (Matt) Make a map of our boundaries for the bylaws document 
+* (All) Review bylaws document and provide feedback via email by July 1st
+* (Ross) Check Wakefield, Penn, Lena St block captains
+* (Matt) Draft letters for local politician regarding our conern for gun violence
+* (Matt) Chop up some weeds around the art work on Rufe St
