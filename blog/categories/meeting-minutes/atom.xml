@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Baynton Hill Neighbors Association]]></title>
-  <link href="http://mmcfarland.github.io/bayntonhill/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Meeting Minutes | Baynton Hill Neighbors Association]]></title>
+  <link href="http://mmcfarland.github.io/bayntonhill/blog/categories/meeting-minutes/atom.xml" rel="self"/>
   <link href="http://mmcfarland.github.io/bayntonhill/"/>
   <updated>2013-06-14T18:56:23-04:00</updated>
   <id>http://mmcfarland.github.io/bayntonhill/</id>
